@@ -10,13 +10,13 @@
         android:id="@+id/buscar_fila"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:hint="@string/buscar_fila"
+        android:hint="@string/busca_fila"
         android:layout_weight="1" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/botao_fila"
+        android:text="@string/botao_busca"
         android:onClick="buscarChamados"/>
 
 </LinearLayout>

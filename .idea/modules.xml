@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://C:\_Uteis\rafa\ServiceDeskCCO-master\ServiceDeskCCO-master\ServiceDeskCCO.iml" filepath="C:\_Uteis\rafa\ServiceDeskCCO-master\ServiceDeskCCO-master\ServiceDeskCCO.iml" />
       <module fileurl="file://$PROJECT_DIR$/ServiceDeskCCO-master.iml" filepath="$PROJECT_DIR$/ServiceDeskCCO-master.iml" />
+      <module fileurl="file://C:\Users\arqdsis\Documents\pastaweb\ServiceDeskCCO-master\ServiceDeskCCO-master.iml" filepath="C:\Users\arqdsis\Documents\pastaweb\ServiceDeskCCO-master\ServiceDeskCCO-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://C:\_Uteis\rafa\ServiceDeskCCO-master\ServiceDeskCCO-master\app\app.iml" filepath="C:\_Uteis\rafa\ServiceDeskCCO-master\ServiceDeskCCO-master\app\app.iml" />
+      <module fileurl="file://C:\Users\arqdsis\Documents\pastaweb\ServiceDeskCCO-master\app\app.iml" filepath="C:\Users\arqdsis\Documents\pastaweb\ServiceDeskCCO-master\app\app.iml" />
     </modules>
   </component>
 </project>

@@ -6,14 +6,15 @@ import java.io.Serializable;
  * Created by arqdsis on 21/03/2018.
  */
 
-class Fila implements Serializable{
+public class Fila implements Serializable{
 
     private int id;
-    private String nome;
+    private String nome, figura;
 
-    public Fila(int id, String nome) {
+    public Fila(int id, String nome, String figura) {
         this.id = id;
         this.nome = nome;
+        this.figura = figura;
     }
 
     @Override
@@ -21,7 +22,16 @@ class Fila implements Serializable{
         return "Fila{" +
                 "id=" + id +
                 ", nome='" + nome + '\'' +
+                ", figura='" + figura + '\'' +
                 '}';
+    }
+
+    public String getFigura() {
+        return figura;
+    }
+
+    public void setFigura(String figura) {
+        this.figura = figura;
     }
 
     public Fila(){
